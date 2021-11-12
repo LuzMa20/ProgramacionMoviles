@@ -44,7 +44,7 @@
             android:layout_height="wrap_content"
             android:hint="@string/edt_user"
             android:textSize="20sp"
-            android:drawableStart="@drawable/is_email"
+
             />
 
         <TextView
@@ -63,7 +63,7 @@
             android:layout_height="wrap_content"
             android:hint="@string/edt_password"
             android:textSize="20sp"
-            android:drawableStart="@drawable/ic_password"/>
+            />
 
         <Button
 

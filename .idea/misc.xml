@@ -3,9 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Proyectos/ProgramacionMoviles/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Proyectos/ProgramacionMoviles/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/Proyectos/ProgramacionMoviles/app/src/main/res/layout/activity_main.xml" value="0.24003623188405798" />
-        <entry key="..\:/Proyectos/ProgramacionMoviles/app/src/main/res/layout/activity_sale_register.xml" value="0.25" />
+        <entry key="..\:/Proyectos/ProgramacionMoviles/app/src/main/res/layout/activity_sale_register.xml" value="0.22" />
       </map>
     </option>
   </component>
