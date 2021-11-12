@@ -3,9 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Proyectos/ProgramacionMoviles/app/src/main/res/layout/activity_login.xml" value="0.1" />
-        <entry key="..\:/Proyectos/ProgramacionMoviles/app/src/main/res/layout/activity_main.xml" value="0.24003623188405798" />
-        <entry key="..\:/Proyectos/ProgramacionMoviles/app/src/main/res/layout/activity_sale_register.xml" value="0.22" />
+        <entry key="..\:/Users/lmgal/AndroidStudioProjects/ProgramacionMoviles/app/src/main/res/drawable/ic_launcher_background.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/lmgal/AndroidStudioProjects/ProgramacionMoviles/app/src/main/res/layout-land/activity_seller_register.xml" value="0.16201117318435754" />
+        <entry key="..\:/Users/lmgal/AndroidStudioProjects/ProgramacionMoviles/app/src/main/res/layout-sw480dp-land/activity_seller_register.xml" value="0.1564625850340136" />
+        <entry key="..\:/Users/lmgal/AndroidStudioProjects/ProgramacionMoviles/app/src/main/res/layout-sw480dp/activity_seller_register.xml" value="0.1" />
+        <entry key="..\:/Users/lmgal/AndroidStudioProjects/ProgramacionMoviles/app/src/main/res/layout-sw600dp-land/activity_seller_register.xml" value="0.2546875" />
+        <entry key="..\:/Users/lmgal/AndroidStudioProjects/ProgramacionMoviles/app/src/main/res/layout-sw600dp/activity_seller_register.xml" value="0.14921875" />
+        <entry key="..\:/Users/lmgal/AndroidStudioProjects/ProgramacionMoviles/app/src/main/res/layout-sw720dp-land/activity_seller_register.xml" value="0.2546875" />
+        <entry key="..\:/Users/lmgal/AndroidStudioProjects/ProgramacionMoviles/app/src/main/res/layout-sw720dp/activity_seller_register.xml" value="0.14921875" />
+        <entry key="..\:/Users/lmgal/AndroidStudioProjects/ProgramacionMoviles/app/src/main/res/layout/activity_login.xml" value="0.23435897435897435" />
+        <entry key="..\:/Users/lmgal/AndroidStudioProjects/ProgramacionMoviles/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/lmgal/AndroidStudioProjects/ProgramacionMoviles/app/src/main/res/layout/activity_sale_register.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/lmgal/AndroidStudioProjects/ProgramacionMoviles/app/src/main/res/layout/activity_seller_register.xml" value="0.1" />
       </map>
     </option>
   </component>

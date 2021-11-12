@@ -13,13 +13,24 @@
     <string name="edt_user">user@email.com</string>
     <string name="btn_login">Login</string>
     <string name="btn_CheckIn">Check in</string>
+    <string name="btn_save">Save</string>
 
     <string name="txt_tSaleRegister">Sales Register</string>
     <string name="txt_ClientSale">Client Name</string>
     <string name="txt_CodProductSale">Code Product</string>
     <string name="txt_DescriptSale">Description</string>
     <string name="txt_ValueSale">Value</string>
-    <string name="txt_CantSale">Cant</string>
+    <string name="txt_CantSale">Qantity</string>
     <string name="edt_ProductSale">Type</string>
+    <string name="txt_name">Name</string>
+    <string name="hint_name">Fullname</string>
+    <string name="txt_id">Id</string>
+    <string name="hint_id">Id Number</string>
+    <string name="txt_email">Email</string>
+    <string name="hint_email">youremail@email.com</string>
+    <string name="txt_password">Password</string>
+    <string name="hint_password">Your password</string>
+
+
 
 </resources>

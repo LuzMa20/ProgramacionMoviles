@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProgramacionMoviles">
         <activity
+            android:name=".SellerRegister"
+            android:exported="false" />
+        <activity
             android:name=".SaleRegister"
             android:exported="false" />
         <activity

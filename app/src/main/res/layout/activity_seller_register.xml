@@ -8,77 +8,97 @@
     android:background="@color/rosa_500"
     android:orientation="vertical"
     android:visibility="visible"
-    tools:context=".loginActivity">
+    tools:context=".SellerRegister">
+
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="10dp"
         android:gravity="center"
         android:orientation="horizontal">
 
         <ImageView
             android:layout_width="200dp"
             android:layout_height="200dp"
-            android:layout_margin="16dp"
+            android:contentDescription="@android:string/untitled"
             android:src="@drawable/imag_proy" />
-
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="16dp"
-        android:gravity="center"
+        android:layout_margin="10dp"
+        android:gravity="center_vertical"
         android:orientation="vertical">
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:bufferType="normal"
-            android:text="@string/txt_user"
+            android:layout_margin="10dp"
+            android:text="@string/txt_name"
             android:textColor="@color/rojo_500"
-            android:textSize="20sp"
             android:textStyle="bold" />
 
         <EditText
+            android:id="@+id/edt_name"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/edt_user"
-            android:textSize="20sp"
-            android:drawableStart="@drawable/is_email"
-            />
+            android:layout_margin="10dp"
+            android:hint="@string/hint_name" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="20dp"
-            android:text="@string/prompt_password"
+            android:layout_margin="10dp"
+            android:text="@string/txt_id"
             android:textColor="@color/rojo_500"
-            android:textSize="20sp"
-            android:textStyle="bold"
-
-            />
+            android:textStyle="bold"/>
 
         <EditText
+            android:id="@+id/edt_id"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/edt_password"
-            android:textSize="20sp"
-            android:drawableStart="@drawable/ic_password"/>
+            android:layout_margin="10dp"
+            android:hint="@string/hint_id" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="@string/txt_email"
+            android:textColor="@color/rojo_500"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:id="@+id/edt_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:hint="@string/hint_email" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="@string/txt_password"
+            android:textColor="@color/rojo_500"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:id="@+id/edt_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:hint="@string/hint_password" />
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:backgroundTint="@color/rojo_500"
-            android:text="@string/btn_login" />
+            android:text="@string/btn_save" />
 
-        <Button
-            android:layout_width="357dp"
-            android:layout_height="wrap_content"
-            android:layout_margin="20sp"
-            android:backgroundTint="@color/rojo_500"
-            android:text="@string/btn_CheckIn" />
     </LinearLayout>
 
 </LinearLayout>
