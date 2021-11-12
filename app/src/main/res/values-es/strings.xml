@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Programacion Moviles</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Correo</string>
+    <string name="prompt_password">CONTRASEÑA</string>
+    <string name="action_sign_in">Ingresar o registrarse</string>
+    <string name="action_sign_in_short">Ingresar</string>
+    <string name="welcome">"Bienvenido !"</string>
+    <string name="invalid_username">No es válido el usuario</string>
+    <string name="invalid_password">Contraseña debe tener >5 caracteres</string>
+    <string name="txt_user">"USUARIO"</string>
+    <string name="edt_password">********</string>
+    <string name="edt_user">usuario@email.com</string>
+    <string name="btn_login">Ingreso</string>
+    <string name="btn_CheckIn">Registrarse</string>
+
+    <string name="txt_tSaleRegister">Registro de Venta</string>
+    <string name="txt_ClientSale">Nombre de Cliente</string>
+    <string name="txt_CodProductSale">Código de Producto</string>
+    <string name="txt_DescriptSale">Descripción</string>
+    <string name="txt_ValueSale">Precio</string>
+    <string name="txt_CantSale">Cantidad</string>
+    <string name="edt_ProductSale">Escribe</string>
+
+</resources>

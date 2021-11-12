@@ -14,4 +14,12 @@
     <string name="btn_login">Login</string>
     <string name="btn_CheckIn">Check in</string>
 
+    <string name="txt_tSaleRegister">Sales Register</string>
+    <string name="txt_ClientSale">Client Name</string>
+    <string name="txt_CodProductSale">Code Product</string>
+    <string name="txt_DescriptSale">Description</string>
+    <string name="txt_ValueSale">Value</string>
+    <string name="txt_CantSale">Cant</string>
+    <string name="edt_ProductSale">Type</string>
+
 </resources>
